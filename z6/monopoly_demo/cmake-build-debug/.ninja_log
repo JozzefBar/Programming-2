@@ -1,0 +1,5 @@
+# ninja log v5
+1	234	1715095589260014000	CMakeFiles/monopoly_ncurses.dir/main.c.o	d832ece940b8c3a9
+236	449	1715095589474153400	monopoly_ncurses.exe	685a4d7b718d4735
+5	213	1715096610678123900	CMakeFiles/monopoly_ncurses.dir/main.c.o	4af17d9d35b762ce
+213	437	1715096610901851400	monopoly_ncurses.exe	685a4d7b718d4735

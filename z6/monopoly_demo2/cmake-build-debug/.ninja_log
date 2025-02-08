@@ -1,0 +1,7 @@
+# ninja log v5
+20	325	1715099273813924600	CMakeFiles/monopoly_demo2.dir/src/monopoly.c.o	4f05b5724a66d09b
+2	468	1715099273957193300	CMakeFiles/monopoly_demo2.dir/src/z6.c.o	d1468f1350aa7a8d
+469	674	1715099274162309000	monopoly_demo2.exe	622be93d043a0f5c
+22	135	1715266834776702000	CMakeFiles/monopoly_demo2.dir/src/monopoly.c.o	74399c9719fc9451
+7	238	1715266834880570500	CMakeFiles/monopoly_demo2.dir/src/z6.c.o	4417f8183d941429
+238	431	1715266835074735300	monopoly_demo2.exe	622be93d043a0f5c

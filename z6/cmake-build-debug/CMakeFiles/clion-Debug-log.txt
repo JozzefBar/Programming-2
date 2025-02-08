@@ -1,0 +1,17 @@
+C:\Users\jojob\AppData\Local\JetBrains\CLion2023.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2023.3.3/bin/ninja/cygwin/x64/ninja.exe" -G Ninja -S "/cygdrive/c/Users/jojob/Desktop/STU FEI/1. ročník bc/Letný semester/PROG2/Programovanie 2/z6" -B "/cygdrive/c/Users/jojob/Desktop/STU FEI/1. ročník bc/Letný semester/PROG2/Programovanie 2/z6/cmake-build-debug"
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Curses: /usr/lib/libcurses.dll.a  
+-- Configuring done (15.5s)
+-- Generating done (0.2s)
+-- Build files have been written to: /cygdrive/c/Users/jojob/Desktop/STU FEI/1. ročník bc/Letný semester/PROG2/Programovanie 2/z6/cmake-build-debug

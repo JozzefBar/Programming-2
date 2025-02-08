@@ -1,0 +1,16 @@
+[Blue]
+"KAMENOLOM":4
+[Green]
+"RESTAURACIA":2
+[Yellow]
+"NOVINOVY STANOK":1
+[Red]
+"SMETISKO":2
+[Orange]
+"VYSKUMNE CENTRUM":5
+[Skyblue]
+"BEZECKA DRAHA":3
+[Purple]
+"FILMOVE STUDIO":7
+[Brown]
+"WELLNESS":5
