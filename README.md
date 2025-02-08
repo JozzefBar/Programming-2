@@ -1,2 +1,2 @@
 # Programming-2
-All projects from Programming 2 - 2. semester STU FEI
+6 different projects from the subject Programming 2, (almost full points from all)
